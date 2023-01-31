@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801143696197",
+    "project_id": "dormmanagement-16371",
+    "storage_bucket": "dormmanagement-16371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801143696197:android:58f779219e4efa18916c2c",
+        "android_client_info": {
+          "package_name": "com.example.dorm_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801143696197-hdr5avvat32obqk8or35rfhrj695vhvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAjZAywk_YSflpDw2fNn0ZnyPEfkzfjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801143696197-hdr5avvat32obqk8or35rfhrj695vhvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
